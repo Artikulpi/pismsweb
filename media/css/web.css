@@ -29,7 +29,7 @@
 }
 
 .board > div.board-inner{
-    background: #fafafa url(media/img/tekstur.jpg);
+    background: #fafafa url();
     background-size: 30%;
 }
 
